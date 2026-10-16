@@ -75,7 +75,7 @@ OpenDataBattle2026/
 └── README.md
 ```
 
-※ [`data/`] には調査・整理したデータや、GISデータ・標高タイルを加工して作成した分析用データのうち、公開・共有するデータを格納。
+※ [`data/`](data/) には調査・整理したデータや、GISデータ・標高タイルを加工して作成した分析用データのうち、公開・共有するデータを格納。
 
 ## データの出典
 
@@ -98,7 +98,8 @@ OpenDataBattle2026/
 
 Tableau Publicにて、分析結果を確認できるダッシュボードを公開。
 
-**公開先：** https://public.tableau.com/app/profile/hayano.yurika/viz/OpenDataBattle2026_Countryside/sheet0
+***公開先*** 
+[Tableau Publicでダッシュボードを見る](https://public.tableau.com/app/profile/hayano.yurika/viz/OpenDataBattle2026_Countryside/sheet0)
 
 ### 分析レポート
 
