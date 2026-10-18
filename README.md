@@ -101,7 +101,6 @@ Tableau Publicにて、分析結果を確認できるダッシュボードを公
 **公開先** 
 
 [Tableau Publicでダッシュボードを見る]
-
 (https://public.tableau.com/app/profile/hayano.yurika/viz/OpenDataBattle2026_Countryside/sheet0)
 
 ### 分析レポート
