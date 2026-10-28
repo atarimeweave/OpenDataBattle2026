@@ -106,7 +106,10 @@ Tableau Publicにて、分析結果を確認できるダッシュボードを公
 
 分析の背景、データから得られた考察をまとめたスライド資料。
 
-※大会側での作品公開後、掲載を予定。
+**公開先**
+
+[`output/OpenDataBattle2026_Countryside.pdf`](output/OpenDataBattle2026_Countryside.pdf)
+
 
 ## 補足・注意事項
 
